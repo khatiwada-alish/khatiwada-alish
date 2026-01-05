@@ -18,9 +18,10 @@ I enjoy learning by building projects, exploring new technologies, and solving r
 - 🏕️ Active **Nepal Scouts** member with leadership & teamwork experience
 
 ---
+
 ## 🏅 Certifications & Badges
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="0f5ffbd6-c2e7-44af-b386-e3481c6928ce" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>  
+![Red Hat](https://img.shields.io/badge/Red%20Hat-RH104-red?style=for-the-badge&logo=redhat&logoColor=white)  
 **RH104 – Red Hat System Administration I (RHA)**
 
 ---
