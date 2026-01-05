@@ -1,16 +1,81 @@
-## Hi there 👋
+# 👋 Hi, I'm Alish Khatiwada
 
-<!--
-**khatiwada-alish/khatiwada-alish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BSc. CSIT Student | IT & Robotics Enthusiast | Fast Learner**  
+📍 Bhaktapur, Nepal  
 
-Here are some ideas to get you started:
+I’m a passionate IT student with a strong interest in **software development, cybersecurity, and electronics**.  
+I enjoy learning by building projects, exploring new technologies, and solving real-world problems through code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Studying **BSc. CSIT**  
+- 🧠 Self-learned in **coding logic & cybersecurity fundamentals**
+- 🤖 Robotics experience with **Arduino & ESP32**
+- 🐧 Comfortable with **Linux** and basic system operations
+- 🔍 Curious problem-solver who loves experimenting and researching
+- 🏕️ Active **Nepal Scouts (Boy Scout)** member with leadership & teamwork experience
+
+---
+
+## 🛠️ Technical Skills
+
+**Programming & Logic**
+- C / C++ (Basics)
+- Python (Learning)
+- SQL (Basics)
+
+**Systems & Tools**
+- Linux (Command line, basic administration)
+- Git & GitHub (Learning & version control)
+- Computer troubleshooting & system setup
+
+**Electronics & IoT**
+- Arduino
+- ESP32
+- Sensors & basic circuit design
+
+**IT Fundamentals**
+- Software & hardware basics
+- Internet research & documentation
+- Cybersecurity fundamentals (self-learned)
+
+---
+
+## 🧩 Soft Skills
+
+- 💡 Problem Solving
+- 🤝 Teamwork & Leadership
+- 🗣️ Communication
+- 🔄 Adaptability & Fast Learning
+- 🎯 Self-motivated & disciplined
+
+---
+
+## 🏆 Experience & Activities
+
+- 🧭 **Active Nepal Scouts member**
+- 🛠️ Participated in **robotics competitions**
+- 📚 Attended IT trainings, workshops & personality development programs
+- 🌱 Strong passion for continuous learning & professional growth
+
+---
+
+## 📈 Goals
+
+- Build strong foundations in **software development & cybersecurity**
+- Contribute to **open-source projects**
+- Gain **IT internship experience**
+- Become a skilled **engineer and problem solver**
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **khatiwadaalish0@gmail.com**
+- 🌐 GitHub: *You are here 😄*
+
+---
+
+⭐ *“Learning never stops — it only evolves.”*
