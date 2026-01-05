@@ -15,7 +15,13 @@ I enjoy learning by building projects, exploring new technologies, and solving r
 - 🤖 Robotics experience with **Arduino & ESP32**
 - 🐧 Comfortable with **Linux** and basic system operations
 - 🔍 Curious problem-solver who loves experimenting and researching
-- 🏕️ Active **Nepal Scouts (Boy Scout)** member with leadership & teamwork experience
+- 🏕️ Active **Nepal Scouts** member with leadership & teamwork experience
+
+---
+## 🏅 Certifications & Badges
+
+![Red Hat](https://img.shields.io/badge/Red%20Hat-RH104-red?style=for-the-badge&logo=redhat&logoColor=white)  
+**RH104 – Red Hat System Administration I (RHA)**
 
 ---
 
