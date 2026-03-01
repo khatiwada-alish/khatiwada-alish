@@ -1,32 +1,32 @@
-# 👋 Hi, I'm Alish Khatiwada
+#  Hi, I'm Alish Khatiwada
 
-🎓 **BSc. CSIT Student | IT & Robotics Enthusiast | Fast Learner**  
-📍 Bhaktapur, Nepal  
+ **BSc. CSIT Student | IT & Robotics Enthusiast | Fast Learner**  
+ Bhaktapur, Nepal  
 
 I’m a passionate IT student with a strong interest in **software development, cybersecurity, and electronics**.  
 I enjoy learning by building projects, exploring new technologies, and solving real-world problems through code.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-- 🎓 Studying **BSc. CSIT**  
-- 🧠 Self-learned in **coding logic & cybersecurity fundamentals**
-- 🤖 Robotics experience with **Arduino & ESP32**
-- 🐧 Comfortable with **Linux** and basic system operations
-- 🔍 Curious problem-solver who loves experimenting and researching
-- 🏕️ Active **Nepal Scouts** member with leadership & teamwork experience
+-  Studying **BSc. CSIT**  
+-  Self-learned in **coding logic & cybersecurity fundamentals**
+-  Robotics experience with **Arduino & ESP32**
+-  Comfortable with **Linux** and basic system operations
+-  Curious problem-solver who loves experimenting and researching
+-  Active **Nepal Scouts** member with leadership & teamwork experience
 
 ---
 
-## 🏅 Certifications & Badges
+##  Certifications & Badges
 
 ![Red Hat](https://img.shields.io/badge/Red%20Hat-RH104-red?style=for-the-badge&logo=redhat&logoColor=white)  
 **RH104 – Red Hat System Administration I (RHA)**
 
 ---
 
-## 🛠️ Technical Skills
+##  Technical Skills
 
 **Programming & Logic**
 - C / C++ (Basics)
@@ -50,26 +50,26 @@ I enjoy learning by building projects, exploring new technologies, and solving r
 
 ---
 
-## 🧩 Soft Skills
+##  Soft Skills
 
-- 💡 Problem Solving
-- 🤝 Teamwork & Leadership
-- 🗣️ Communication
-- 🔄 Adaptability & Fast Learning
-- 🎯 Self-motivated & disciplined
-
----
-
-## 🏆 Experience & Activities
-
-- 🧭 **Active Nepal Scouts member**
-- 🛠️ Participated in **robotics competitions**
-- 📚 Attended IT trainings, workshops & personality development programs
-- 🌱 Strong passion for continuous learning & professional growth
+-  Problem Solving
+-  Teamwork & Leadership
+-  Communication
+-  Adaptability & Fast Learning
+-  Self-motivated & disciplined
 
 ---
 
-## 📈 Goals
+##  Experience & Activities
+
+-  **Active Nepal Scouts member**
+-  Participated in **robotics competitions**
+-  Attended IT trainings, workshops & personality development programs
+-  Strong passion for continuous learning & professional growth
+
+---
+
+##  Goals
 
 - Build strong foundations in **software development & cybersecurity**
 - Contribute to **open-source projects**
@@ -78,10 +78,10 @@ I enjoy learning by building projects, exploring new technologies, and solving r
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-- 📧 Email: **khatiwadaalish0@gmail.com**
-- 🌐 GitHub: *You are here 😄*
+-  Email: **khatiwadaalish0@gmail.com**
+
 
 ---
 
